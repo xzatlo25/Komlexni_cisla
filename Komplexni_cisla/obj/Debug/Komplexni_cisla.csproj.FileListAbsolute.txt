@@ -1,0 +1,8 @@
+C:\Users\zatlo\Desktop\INFORMAČNÍ BEZPEČNOST\3.ROČNÍK_léto\BPC-OOP\Komplex\Komplexni_cisla\Komplexni_cisla\bin\Debug\Komplexni_cisla.exe.config
+C:\Users\zatlo\Desktop\INFORMAČNÍ BEZPEČNOST\3.ROČNÍK_léto\BPC-OOP\Komplex\Komplexni_cisla\Komplexni_cisla\bin\Debug\Komplexni_cisla.exe
+C:\Users\zatlo\Desktop\INFORMAČNÍ BEZPEČNOST\3.ROČNÍK_léto\BPC-OOP\Komplex\Komplexni_cisla\Komplexni_cisla\bin\Debug\Komplexni_cisla.pdb
+C:\Users\zatlo\Desktop\INFORMAČNÍ BEZPEČNOST\3.ROČNÍK_léto\BPC-OOP\Komplex\Komplexni_cisla\Komplexni_cisla\obj\Debug\Komplexni_cisla.csproj.AssemblyReference.cache
+C:\Users\zatlo\Desktop\INFORMAČNÍ BEZPEČNOST\3.ROČNÍK_léto\BPC-OOP\Komplex\Komplexni_cisla\Komplexni_cisla\obj\Debug\Komplexni_cisla.csproj.SuggestedBindingRedirects.cache
+C:\Users\zatlo\Desktop\INFORMAČNÍ BEZPEČNOST\3.ROČNÍK_léto\BPC-OOP\Komplex\Komplexni_cisla\Komplexni_cisla\obj\Debug\Komplexni_cisla.csproj.CoreCompileInputs.cache
+C:\Users\zatlo\Desktop\INFORMAČNÍ BEZPEČNOST\3.ROČNÍK_léto\BPC-OOP\Komplex\Komplexni_cisla\Komplexni_cisla\obj\Debug\Komplexni_cisla.exe
+C:\Users\zatlo\Desktop\INFORMAČNÍ BEZPEČNOST\3.ROČNÍK_léto\BPC-OOP\Komplex\Komplexni_cisla\Komplexni_cisla\obj\Debug\Komplexni_cisla.pdb
